@@ -17,7 +17,7 @@ Key ID (formato largo):
 Tu respuesta aquí: 47B57D8B419F4744
 
 Fingerprint completo:
-Tu respuesta aquí (40 caracteres hexadecimales)
+
 
 Fecha de generación de la clave:
 14/01/2026
